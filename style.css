@@ -1,1 +1,22 @@
+h1{
+	color: black;
+	text-align: center; 
+	
+}
+
+body{ 
+	background: cyan;
+
+
+}
+
+p {
+	border: 5px solid black;
+  font-family: verdana;
+  font-size: 20px;
+} 
+giovanni {
+  font-size:30px;
+  color: red;
+}
 

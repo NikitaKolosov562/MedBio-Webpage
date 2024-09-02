@@ -8,11 +8,14 @@
   <h1>Nerve Cells</h1> <!--The heading for the page -->
   <p> <!--p tag makes a paragraph -->
 Here are some questions on Nerve Cells! Have Fun! (Click for question answers)
- 
+ $(document).ready(function(){
+  $("p").click(function(){
+    $(this).hide();
+  });
+});
   </p>
   <div class="intro">
   <p id="firstname"> 1. What does a Nerve Cell do?</p>
-	 
   <p id="hometown"> 2. Around how many Nerve Cells are in your body?</p>
   <p id="hometownn"> 3. How fast are Nerve Cells at sending/receiving messages?</p>	  
 </div>

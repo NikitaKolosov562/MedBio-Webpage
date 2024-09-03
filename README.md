@@ -1,1 +1,1 @@
- https://nikitakolosov562.github.io/MedBio-Webpage/
+ https://nikitakolosov562.github.io/MedBio-Webpage

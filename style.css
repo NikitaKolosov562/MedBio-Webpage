@@ -12,12 +12,12 @@ body{
 
 p {
 	border: 5px solid black;
-  font-family: verdana;
-  font-size: 20px;
+  	font-family: verdana;
+  	font-size: 20px;
 } 
 giovanni {
-  font-size:30px;
-  color: red;
+  	font-size:30px;
+  	color: red;
 }
 span {
 	display:none;

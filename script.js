@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $(".answers").click(function(){
-    $(this).show();
+  $("#firstname").click(function(){
+    $(".answers").show();
   });
 });
